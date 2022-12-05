@@ -14,6 +14,7 @@
 ### about me:
 - currently a student, studying computer science 💻
 - extremely interested in learning about new things :zap:
+- currently working on personal projects 🚀
 
 ---
 
