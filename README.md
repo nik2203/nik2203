@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nik2203&count_private=true&show_icons=true&theme=material-palenight"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik2203&theme=material-palenight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik2203&theme=material-palenight&layout=compact"/>
 </a>
 
 
