@@ -39,6 +39,9 @@
 ---
 
 ### profile statistics:
+
+[![holoping badges](https://holopin.me/nik2203)](https://holopin.io/@nik2203)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nik2203&count_private=true&show_icons=true&theme=material-palenight"/>
 </a>
