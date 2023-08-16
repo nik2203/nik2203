@@ -12,9 +12,16 @@
 ---
 
 ### 📖 about me:
-- currently a student, studying computer science 💻
-- extremely interested in learning about new things :zap:
-- currently working on personal projects 🚀
+- hi! i'm nikhil, a 3rd year computer science student 💻
+- currently learning about cybersec, ai/ml, fullstack development and interested in learning about devops:zap:
+- if i'm not coding, you can find me whipping up delicacies 🍳 or finishing my latest read 📚
+-  i'd love to collaborate on projects so feel free to reach out to my via my email or my linked socials🚀
+
+<div>
+  <a href="https://www.linkedin.com/in/nikhil-girish-593291256/">
+      <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width = 40 height = 40/>
+  </a>
+</div>
 
 ---
 
