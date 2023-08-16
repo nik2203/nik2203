@@ -61,4 +61,4 @@
 <img src="https://profile-counter.glitch.me/nik2203/count.svg" />
 </div>
 
-![Snake animation](https://github.com/nik2203/nik2203/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nik2203/nik2203/blob/output/github-contribution-grid-snake.gif)
