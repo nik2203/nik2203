@@ -1,21 +1,18 @@
-<div align="center" id="header">
+<!-- <div align="center" id="header">
   <img src="https://media.giphy.com/media/LtNx4NsxHaDDoQT3Am/giphy.gif" height=250/>
-</div>
+</div> -->
+<div align="center" id="header">
 <h1 align="center">
   hello there
+  <br/>
   <img src="https://media3.giphy.com/media/KAFyE31UznAEaru7de/giphy.gif?cid=6c09b952o8n28kwjtk08f1remjh0hmuzehq9v4v7epjcpb5m&rid=giphy.gif&ct=s" height=50/>
   <br/>
-  welcome to my github
 </h1>
+</div>
 
-
----
 
 ### 📖 about me:
-- hi! i'm nikhil, a final year computer science student 💻
-- currently learning about cybersec, ai/ml, fullstack development and interested in learning about devops :zap:
-- if i'm not coding, you can find me whipping up delicacies 🍳 or finishing my latest read 📚
--  i'd love to collaborate on projects so feel free to reach out to my via my email or my linked socials🚀
+- hi! i'm nikhil
 
 <div>
   <a href="https://www.linkedin.com/in/nikhil-girish-593291256/">
@@ -58,5 +55,5 @@
 <div align="center">
 <br/>
 <h3>visitor counter:<h3/>
-<img src="https://profile-counter.glitch.me/nik2203/count.svg" />
+<!-- <img src="https://profile-counter.glitch.me/nik2203/count.svg" /> -->
 </div>
